@@ -1,11 +1,11 @@
 # phpstorm user shortcut     
 
 ### toggle sidebar   
-    `ctrl+1`    
+    ctrl+1    
 ### open or search by class name 
-    `ctrl+O` 
+    ctrl+O
 ### open or search by method name
-    `alt+ctrl+O`
+    alt+ctrl+O
 ### open file by file name 
-    `shift+ctrl+O`
-
+    shift+ctrl+O
+    
