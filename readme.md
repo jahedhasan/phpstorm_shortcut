@@ -8,4 +8,10 @@
     alt+ctrl+O
 ### open file by file name 
     shift+ctrl+O
+### open navigation bar       
+    shift+up
+### create new file 
+    ctrl+N
+### create new file in specific directory
+    shift+up  then ctrl+N
     
