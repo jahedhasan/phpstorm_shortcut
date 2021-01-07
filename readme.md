@@ -6,5 +6,6 @@
     `ctrl+O` 
 ### open or search by method name
     `alt+ctrl+O`
-### 
+### open file by file name 
+    `shift+ctrl+O`
 
